@@ -16,19 +16,18 @@ Since these are Jupyter Notebooks, you can run them locally or using cloud-based
 # Prerequisites
 To run these notebooks locally, you will need Python installed along with Jupyter and standard machine learning libraries. Specifically for YOLOv8, you will need the ultralytics package:
 
-Bash
-
+```Bash
 pip install jupyterlab
-
 pip install ultralytics
-
 pip install opencv-python matplotlib
+```
 # Installation
 # 1.Clone the repository:
 
-Bash
-
+```Bash
 git clone https://github.com/banul25/aerail_object_classification_detection.git
+
+```
 # 2.Navigate to the project directory:
 
 Bash
@@ -36,9 +35,9 @@ Bash
 cd aerail_object_classification_detection
 # 3.Launch Jupyter Notebook / JupyterLab:
 
-Bash
-
+```Bash
 jupyter notebook
+```
 # 🧠 Technologies Used
 * Python
 
